@@ -1,0 +1,14 @@
+{
+  "json":
+  {
+    "nova.json": "/etc/nova/nova.json"
+  },
+  "ini":
+  {
+    "cinder-volume.conf": "/etc/cinder/cinder-volume.conf"
+  },
+  "sample":
+  {
+    "nova.conf.sample": "/etc/nova/nova.conf.sample"
+  }
+}
